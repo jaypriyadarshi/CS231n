@@ -1,0 +1,1 @@
+<cs231n.classifiers.cnn.SevenLayerConvNetNorm object at 0x7f11aa528310>
